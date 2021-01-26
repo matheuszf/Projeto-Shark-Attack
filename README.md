@@ -2,7 +2,7 @@
 
 # Este projeto é um exercício de limpeza de dados com pandas para realizar análises.
 
-O projeto consiste em estabelecer uma hipótese inicial a partir de uma base de dados e realizar certas ações na base de dados, tais como: limpar, melhorar seu conteúdo, aplicar funções estatísticas quando necessário, etc.
+O projeto consiste em estabelecer uma hipótese inicial a partir de uma base de dados e realizar certas ações na base de dados.
 
 A base de dados corresponde a informações relacionadas aos registros dos ataques de tubarão entre 1800 e 2018 que estão hospedados no site kaggle.com.
 
