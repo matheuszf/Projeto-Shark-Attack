@@ -16,5 +16,7 @@ Conclui que:
 - A Ásia teve um baixo índice de ataques de tubarão <b>(385 casos registrados)</b>, porém ficou em segundo lugar em relação ao índice de fatalidade <b>(45,97%)</b> comparado a quantidade de ataques.
 - A Europa tem o segundo menor índice de ataques de tubarão <b>(262 casos registrados)</b> e um baixo índice de taxa de mortalidade <b>(24%)</b>.
 
+![Gráfico Continentes/Fatal](https://github.com/matheuszf/Projeto-Shark-Attack/blob/main/grafico.jpg)
+
 
 O continente aficano, apesar de ter o menor índice de ataques de tubarão, é o continente com mais casos de ataques fatais.
