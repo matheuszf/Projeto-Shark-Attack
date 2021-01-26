@@ -19,4 +19,4 @@ Conclui que:
 ![Gráfico Continentes/Fatal](https://github.com/matheuszf/Projeto-Shark-Attack/blob/main/grafico.jpg)
 
 
-O continente aficano, apesar de ter o menor índice de ataques de tubarão, é o continente com mais casos de ataques fatais.
+O continente africano, apesar de ter o menor índice de ataques de tubarão, é o continente com mais casos de ataques fatais.
